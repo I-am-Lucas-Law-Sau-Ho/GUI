@@ -1,0 +1,5 @@
+import tkinter as tk  # Python build in library
+win1 = tk.Tk()
+win1.title("Hello World")
+win1.geometry("300x200+550+200")  # sie width x height. Move to +x +y
+win1.mainloop()
